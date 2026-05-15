@@ -1,5 +1,5 @@
 {
-  "name": "levanter",
+  "name": "𝗩𝗘𝗡𝗭𝗬 𝗕𝗢𝗧-𝗠𝗗",
   "version": "5.5.2",
   "description": "",
   "main": "index.js",
@@ -9,7 +9,7 @@
     "stop": "pm2 stop levanter",
     "postinstall": "node -e \"try { require('sharp') } catch (e) { process.exit(1); }\" || yarn add --ignore-engines sharp@0.34.5"
   },
-  "author": "",
+  "author": "al†esse",
   "license": "MIT",
   "dependencies": {
     "audio-decode": "^2.2.2",
