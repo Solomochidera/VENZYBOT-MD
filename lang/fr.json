@@ -83,8 +83,8 @@
       "time_seconds": " s"
     },
     "menu": {
-      "help": "```╭────────────────╮\n      ʟᴇᴠᴀɴᴛᴇʀ\n╰────────────────╯\n\n╭────────────────\n│ Préfixe : {0}\n│ Utilisateur : {1}\n│ Heure : {2}\n│ Jour : {3}\n│ Date : {4}\n│ Version : {5}\n│ Plugins : {6}\n│ RAM : {7}\n│ Temps d'activité : {8}\n│ Plateforme : {9}\n╰────────────────```",
-      "menu": "```╭═══ LEVANTER ═══⊷\n┃❃╭──────────────\n┃❃│ Préfixe : {0}\n┃❃│ Utilisateur : {1}\n┃❃│ Heure : {2}\n┃❃│ Jour : {3}\n┃❃│ Date : {4}\n┃❃│ Version : {5}\n┃❃│ Plugins : {6}\n┃❃│ RAM : {7}\n┃❃│ Temps d'activité : {8}\n┃❃│ Plateforme : {9}\n┃❃╰───────────────\n╰═════════════════⊷```",
+      "help": "```╭────────────────╮\n      𝗩𝗘𝗡𝗭𝗬 𝗕𝗢𝗧-𝗠𝗗\n╰────────────────╯\n\n╭────────────────\n│ Préfixe : {0}\n│ Utilisateur : {1}\n│ Heure : {2}\n│ Jour : {3}\n│ Date : {4}\n│ Version : {5}\n│ Plugins : {6}\n│ RAM : {7}\n│ Temps d'activité : {8}\n│ Plateforme : {9}\n╰────────────────```",
+      "menu": "```╭═══ 𝗩𝗘𝗡𝗭𝗬 𝗕𝗢𝗧-𝗠𝗗 ═══⊷\n┃❃╭──────────────\n┃❃│ Préfixe : {0}\n┃❃│ Utilisateur : {1}\n┃❃│ Heure : {2}\n┃❃│ Jour : {3}\n┃❃│ Date : {4}\n┃❃│ Version : {5}\n┃❃│ Plugins : {6}\n┃❃│ RAM : {7}\n┃❃│ Temps d'activité : {8}\n┃❃│ Plateforme : {9}\n┃❃╰───────────────\n╰═════════════════⊷```",
       "disabled": "disabled"
     },
     "afk": {
